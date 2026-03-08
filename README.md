@@ -1,7 +1,18 @@
+<p align="center">
+  <img src="assets/surakshanet-banner.png" width="100%">
+</p>
+
+# 🚦 SurakshaNet
+
+### Edge AI Powered Road Safety System
+
+AI-powered system that detects dangerous traffic situations in real time and prevents accidents using **Edge AI + AWS Cloud + Predictive Analytics**.
+
 ![AWS](https://img.shields.io/badge/AWS-Serverless-orange)
 ![Edge AI](https://img.shields.io/badge/Edge-AI-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Lite-orange)
 ![Android](https://img.shields.io/badge/Android-Kotlin-green)
+![IoT](https://img.shields.io/badge/IoT-AWS-blue)
 
 # 🚦 SurakshaNet — Edge AI Road Safety System
 
@@ -266,3 +277,4 @@ Team SurakshaNet
 # ⭐ Support
 
 If you like this project, give the repository a ⭐
+
