@@ -1,0 +1,16 @@
+{
+  "CredentialsProvider": {
+    "CognitoIdentity": {
+      "Default": {
+        "PoolId": "ap-south-1:9a6dd31e-aea8-4349-94f6-f78ff3af3995",
+        "Region": "ap-south-1"
+      }
+    }
+  },
+  "IoT": {
+    "Default": {
+      "Endpoint": "a96w9sfw2eym7-ats.iot.ap-south-1.amazonaws.com",
+      "Region": "ap-south-1"
+    }
+  }
+}
