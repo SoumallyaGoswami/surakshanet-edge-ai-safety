@@ -23,6 +23,10 @@ Using **Edge AI vehicle detection**, **time-to-collision prediction**, and **clo
 
 ---
 
+#DEMO VIDEO - https://drive.google.com/file/d/1QyZTDIlcaYhmyZifjAqXFRqmrbkbRl-y/view?usp=sharing
+
+---
+
 # 🧠 Problem
 
 Road accidents cause **1.19 million deaths globally every year**.
@@ -277,4 +281,5 @@ Team SurakshaNet
 # ⭐ Support
 
 If you like this project, give the repository a ⭐
+
 
